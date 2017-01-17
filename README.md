@@ -44,3 +44,7 @@ I was part of a team of developers and often independently to build a network of
 
 I built mobile applications for SMS marketing campaigns that involved the use of WAP, SMS protocol, and PHP. Work with a small team of engineers to provide development and testing for rapid deployment.
 
+## Education from University of Miami
+
+* Master of Science in Electrical and Computer Engineering (M.S.E.C.E.) 2006
+* Bachelor of Science in Computer Engineering degree program (B.S.Cp.E.) 2005
