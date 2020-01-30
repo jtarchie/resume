@@ -6,19 +6,22 @@ Denver, CO
 
 # Summary
 
-* Ruby, Go, [Concourse CI](https://concourse.ci), PostgreSQL, [Cloud Foundry](https://cloudfoundry.org), AWS, GCP
+* Ruby, Go, [Concourse CI](https://concourse.ci), PostgreSQL, [Cloud Foundry](https://cloudfoundry.org), AWS, GCP, TDD, Bosh
 * Ultra running, salsa dancing, teaching
 
 ## What I am looking for
 
-I am an engineer. You tell me what you want to build, I work with others to build that. 
-
-My experience is where the product, design, and engineering are treated as a group and not separate teams. It is about optimizing to "get things done". I have built and fostered teams to do so. I would like to bring this practice to new teams.
-
+* Leadership role to help and mentor product, design, and engineering together.
+* Engage in hiring practices to ensure both company and employee have happiness.
+* Build a better product for the customer.
 
 # Professional Experience
 
-## Pivotal Cloud Foundry- *Staff Software Engineer* - __12/2014-Present__
+## VMware - *Senior Member of Technical Staff* - __12/2014-1/2020
+
+Pivotal was purchased by VMWare; same role, new title.
+
+## Pivotal Cloud Foundry- *Staff Software Engineer* - __12/2014-1/2020
 
 I have worked on Cloud Foundry, a SaaS for hosting applications. It flexes polyglot muscles, to be effective in contributing to many projects.
 
