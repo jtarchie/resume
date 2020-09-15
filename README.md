@@ -17,11 +17,11 @@ Denver, CO
 
 # Professional Experience
 
-## VMware - *Senior Member of Technical Staff* - __12/2014-1/2020
+## VMware - *Senior Member of Technical Staff* - __12/2014-Current__
 
 Pivotal was purchased by VMWare; same role, new title.
 
-## Pivotal Cloud Foundry- *Staff Software Engineer* - __12/2014-1/2020
+## Pivotal Cloud Foundry- *Staff Software Engineer* - __12/2014-1/2020__
 
 I have worked on Cloud Foundry, a SaaS for hosting applications. It flexes polyglot muscles, to be effective in contributing to many projects.
 
