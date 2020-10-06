@@ -1,7 +1,5 @@
 Dear Hiring Managers:
 
-Thank you for writing such a thorough and mutually respectful job application process. All companies need to do this.
-
 A little about me.
 I'm a large-city dweller, which in my later adult life, decided to move to Colorado. I enjoy the outdoors, camping, trail-running, and (big surprise) craft breweries.
 
@@ -17,6 +15,7 @@ I've been able to help rescue products, mentor new engineers (❤️), and creat
 
 I'm ready for my next challenge.
 I enjoy building products that people enjoy using.
+And (and many others) enjoy outdoor acitvites and capturing that experience.
 I have the experience and toolset to provide value to any team.
 And would really appreciate working with like minded folks.
 

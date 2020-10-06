@@ -6,7 +6,7 @@ Denver, CO
 
 # Summary
 
-* Ruby, Go, [Concourse CI](https://concourse.ci), PostgreSQL, [Cloud Foundry](https://cloudfoundry.org), AWS, GCP, TDD, Bosh
+* Ruby, Go, [Concourse CI](https://concourse.ci) for CI/CD, PostgreSQL, [Cloud Foundry](https://cloudfoundry.org), AWS, GCP, TDD, Bosh
 * Ultra running, salsa dancing, teaching
 
 ## What I am looking for
