@@ -1,11 +1,10 @@
 Dear Hiring Managers:
 
-A little about me.
-I'm a large-city dweller, which in my later adult life, decided to move to Colorado. I enjoy the outdoors, camping, trail-running, and (big surprise) craft breweries.
+<job description>
 
 I've been at the Pivotal for 10+ years. For four years, it was client engagements to build apps using Rails and Javascript, using TDD, pair programming, and Agile product managment. The most important thing I learned is having a process to building a product helps teams streamline, focus, and align on sustainable deliverables.
 
-For the past five years, I moved away from Rails to Golang and backend cloud systems (refraining from adding buzzwords). Mainly to validate one thing, that I could program in other domains besides web apps for startups and still apply the same product development methodologies.
+For the past six years, I moved away from Rails to Golang and distributed cloud systems. To validate I could program in other domains besides web apps for startups and still apply the same product development methodologies.
 
 Validated!
 
