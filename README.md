@@ -11,13 +11,19 @@ Denver, CO
 
 ## What I am looking for
 
-* Leadership role to help and mentor product, design, and engineering together.
+* Leadership role to help and mentor product, design, and engineering together,
+  while being able to be Individual Contributor.
 * Engage in hiring practices to ensure both company and employee have happiness.
 * Build a better product for the customer.
 
 # Professional Experience
 
-## VMware - *Senior Member of Technical Staff* - __12/2014-Current__
+## Shopify - *Senior Staff Developer* - __3/2021-Current__
+
+Technical leader on the core backend handling the GraphQL API at scale.
+Working with several large teams to help build practices for delivery of schedule features.
+
+## VMware - *Senior Member of Technical Staff* - __1/2020-1/2021__
 
 Pivotal was purchased by VMWare; same role, new title.
 
