@@ -2,7 +2,7 @@ Dear Hiring Managers:
 
 <job description>
 
-I've been at the Pivotal for 10+ years. For four years, it was client engagements to build apps using Rails and Javascript, using TDD, pair programming, and Agile product managment. The most important thing I learned is having a process to building a product helps teams streamline, focus, and align on sustainable deliverables.
+I've been at Pivotal for 10+ years. For four years, it was client engagements to build apps using Rails and Javascript, using TDD, pair programming, and Agile product management. The most important thing I learned is having a process to build a product helps teams streamline, focus, and align on sustainable deliverables.
 
 For the past six years, I moved away from Rails to Golang and distributed cloud systems. To validate I could program in other domains besides web apps for startups and still apply the same product development methodologies.
 
